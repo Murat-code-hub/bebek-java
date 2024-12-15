@@ -1,2 +1,2 @@
 # bebek-java
-bu bölümde yine başladığım java ile denemeler yapıyorum
+bu bölümde yeni başladığım java ile denemeler yapıyorum
